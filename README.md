@@ -1,9 +1,5 @@
 ### Hi there 👋, I am Aiman Afzal
-![Twitter Follow] (https://img.shields.io/twitter/follow/RealRealAiman?style=social)
-
-
-
-**aimanafzal/aimanafzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Twitter Follow](https://img.shields.io/twitter/follow/RealRealAiman?style=social)
 
 Here are some ideas to get you started:
 
@@ -16,7 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns he/him
 - ⚡ Fun fact, I love to play mobile games
 
-##Connect with me
+##Connect with me at ayman.afzal@msn.com
+
+I am a backend heavy developer with a passion to involve in startups and contribute in opensource.
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
 <!--
 - 🤔 I’m looking for help with ...
