@@ -19,7 +19,7 @@ I am a backend heavy developer with a passion to involve in startups and contrib
 ---
 🧰 Toolbox
 
-(https://github.com/aimanafzal/aimanafzal/files/11673912/typescript-plain.svg)
+[typescript-plain.svg.txt](https://github.com/aimanafzal/aimanafzal/files/11673912/typescript-plain.svg)
 [mongodb-original.svg.txt](https://github.com/aimanafzal/aimanafzal/files/11673913/mongodb-original.svg)
 [javascript-plain.svg.txt](https://github.com/aimanafzal/aimanafzal/files/11673914/javascript-plain.svg)
 [graphql-plain.svg.txt](https://github.com/aimanafzal/aimanafzal/files/11673915/graphql-plain.svg)
@@ -37,9 +37,9 @@ I am a backend heavy developer with a passion to involve in startups and contrib
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<aimanafzal>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanafzal&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Aiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=<aimanafzal>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Aiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimanafzal&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🤔 I’m looking for help with ...
