@@ -32,5 +32,14 @@ I am a backend heavy developer with a passion to involve in startups and contrib
 
 
 ---
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<aimanafzal>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<aimanafzal>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 - 🤔 I’m looking for help with ...
