@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 I am a backend heavy developer with a passion to involve in startups and contribute in opensource.
 
 ---
+🧰 Toolbox
 
 [typescript-plain.svg.txt](https://github.com/aimanafzal/aimanafzal/files/11673912/typescript-plain.svg.txt)
 [mongodb-original.svg.txt](https://github.com/aimanafzal/aimanafzal/files/11673913/mongodb-original.svg.txt)
@@ -29,10 +30,6 @@ I am a backend heavy developer with a passion to involve in startups and contrib
 [npm.txt](https://github.com/aimanafzal/aimanafzal/files/11673920/npm.txt)
 [nodejs-original.svg.txt](https://github.com/aimanafzal/aimanafzal/files/11673921/nodejs-original.svg.txt)
 [linkedin-original.svg.txt](https://github.com/aimanafzal/aimanafzal/files/11673922/linkedin-original.svg.txt)
-
-
-🧰 Toolbox
-
 
 
 ---
