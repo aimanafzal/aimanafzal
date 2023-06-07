@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Aiman Afzal
-![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=%2FRealRealAiman)
+![Twitter Follow] (https://img.shields.io/twitter/follow/RealRealAiman?style=social)
 
 
 
