@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Aiman Afzal
-![Twitter Follow](https://img.shields.io/twitter/follow/RealRealAiman?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/RealRealAiman?style=social) 
 
 Here are some ideas to get you started:
 
@@ -19,7 +19,7 @@ I am a backend heavy developer with a passion to involve in startups and contrib
 ---
 🧰 Toolbox
 
-[typescript-plain.svg.txt](https://github.com/aimanafzal/aimanafzal/files/11673912/typescript-plain.svg)
+(https://github.com/aimanafzal/aimanafzal/files/11673912/typescript-plain.svg)
 [mongodb-original.svg.txt](https://github.com/aimanafzal/aimanafzal/files/11673913/mongodb-original.svg)
 [javascript-plain.svg.txt](https://github.com/aimanafzal/aimanafzal/files/11673914/javascript-plain.svg)
 [graphql-plain.svg.txt](https://github.com/aimanafzal/aimanafzal/files/11673915/graphql-plain.svg)
