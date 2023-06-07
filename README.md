@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at BEMA NETWORK
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on Open Source Projects
 
 - 💬 Ask me about NodeJs, ExpressJs, Javascript and remote work
@@ -39,7 +39,8 @@ I am a backend heavy developer with a passion to involve in startups and contrib
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<aimanafzal>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<aimanafzal>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Aiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=<aimanafzal>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning ...
