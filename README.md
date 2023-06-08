@@ -19,16 +19,8 @@ I am a backend heavy developer with a passion to involve in startups and contrib
 ---
 🧰 Toolbox
 
-[typescript-plain-2.svg](https://github.com/aimanafzal/typescript-plain-2.svg)
-[mongodb-original-2.svg](https://github.com/aimanafzal/mongodb-original-2.svg)
-[javascript-plain-2.svg](https://github.com/aimanafzal/javascript-original.svg)
-[graphql-plain-2.svg](https://github.com/aimanafzal/graphql-plain-2.svg)
-[github-original-2.svg](https://github.com/aimanafzal/github-original-2.svg)
-[firebase-plain-2.svg](https://github.com/aimanafzal/firebase-plain-2.svg)
-[python-original-2.svg](https://github.com/aimanafzal/python-original.svg)
-[express-original-2.svg](https://github.com/aimanafzal/express-original-2.svg)
-[nodejs-original-2.svg](https://github.com/aimanafzal/nodejs-original-2.svg)
-[linkedin-original-2.svg](https://github.com/aimanafzal/linkedin-original-2.svg)
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="JavaScript Logo" width="50" height="50"/> 
+
 
 
 ---
@@ -44,3 +36,15 @@ I am a backend heavy developer with a passion to involve in startups and contrib
 <!--
 - 🤔 I’m looking for help with ...
 - 🌱 I’m currently learning ...
+
+[typescript-plain-2.svg](https://github.com/aimanafzal/typescript-plain-2.svg)
+[mongodb-original-2.svg](https://github.com/aimanafzal/mongodb-original-2.svg)
+[javascript-plain-2.svg](https://github.com/aimanafzal/javascript-original.svg)
+[graphql-plain-2.svg](https://github.com/aimanafzal/graphql-plain-2.svg)
+[github-original-2.svg](https://github.com/aimanafzal/github-original-2.svg)
+[firebase-plain-2.svg](https://github.com/aimanafzal/firebase-plain-2.svg)
+[python-original-2.svg](https://github.com/aimanafzal/python-original.svg)
+[express-original-2.svg](https://github.com/aimanafzal/express-original-2.svg)
+[nodejs-original-2.svg](https://github.com/aimanafzal/nodejs-original-2.svg)
+[linkedin-original-2.svg](https://github.com/aimanafzal/linkedin-original-2.svg)
+
