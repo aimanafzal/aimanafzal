@@ -19,16 +19,16 @@ I am a backend heavy developer with a passion to involve in startups and contrib
 ---
 🧰 Toolbox
 
-[typescript-plain.svg.txt](https://github.com/aimanafzal/typescript-plain-2.svg)
-[mongodb-original.svg.txt](https://github.com/aimanafzal/mongodb-original-2.svg)
-[javascript-plain.svg.txt](https://github.com/aimanafzal/javascript-plain-2.svg)
-[graphql-plain.svg.txt](https://github.com/aimanafzal/graphql-plain-2.svg)
-[github-original.svg.txt](https://github.com/aimanafzal/github-original-2.svg)
-[firebase-plain.svg.txt](https://github.com/aimanafzal/firebase-plain-2.svg)
-[python-original.svg.txt](https://github.com/aimanafzal/python-original.svg)
-[express-original.svg.txt](https://github.com/aimanafzal/express-original-2.svg)
-[nodejs-original.svg.txt](https://github.com/aimanafzal/nodejs-original-2.svg)
-[linkedin-original.svg.txt](https://github.com/aimanafzal/linkedin-original-2.svg)
+[typescript-plain-2.svg](https://github.com/aimanafzal/typescript-plain-2.svg)
+[mongodb-original-2.svg](https://github.com/aimanafzal/mongodb-original-2.svg)
+[javascript-plain-2.svg](https://github.com/aimanafzal/javascript-plain-2.svg)
+[graphql-plain-2.svg](https://github.com/aimanafzal/graphql-plain-2.svg)
+[github-original-2.svg](https://github.com/aimanafzal/github-original-2.svg)
+[firebase-plain-2.svg](https://github.com/aimanafzal/firebase-plain-2.svg)
+[python-original-2.svg](https://github.com/aimanafzal/python-original.svg)
+[express-original-2.svg](https://github.com/aimanafzal/express-original-2.svg)
+[nodejs-original-2.svg](https://github.com/aimanafzal/nodejs-original-2.svg)
+[linkedin-original-2.svg](https://github.com/aimanafzal/linkedin-original-2.svg)
 
 
 ---
