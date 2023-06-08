@@ -21,7 +21,7 @@ I am a backend heavy developer with a passion to involve in startups and contrib
 
 [typescript-plain-2.svg](https://github.com/aimanafzal/typescript-plain-2.svg)
 [mongodb-original-2.svg](https://github.com/aimanafzal/mongodb-original-2.svg)
-[javascript-plain-2.svg](https://github.com/aimanafzal/javascript-plain-2.svg)
+[javascript-plain-2.svg](https://github.com/aimanafzal/javascript-original.svg)
 [graphql-plain-2.svg](https://github.com/aimanafzal/graphql-plain-2.svg)
 [github-original-2.svg](https://github.com/aimanafzal/github-original-2.svg)
 [firebase-plain-2.svg](https://github.com/aimanafzal/firebase-plain-2.svg)
