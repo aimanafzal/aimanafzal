@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at BEMA NETWORK
+- 🔭 I’m currently working as a Tech Lead BEMA NETWORK and a proud team member of Solsniffer.com
 
 - 👯 I’m looking to collaborate on Open Source Projects
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ##Connect with me at ayman.afzal@msn.com
 
-I am a backend heavy developer with a passion to involve in startups and contribute in opensource.
+I am a backend-heavy developer with a passion to involved in startups and contributing in opensource.
 
 ---
 🧰 Toolbox
